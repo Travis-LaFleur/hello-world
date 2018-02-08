@@ -1,2 +1,3 @@
 # hello-world
 Test case of creating repository
+This is a little bit about myself....
